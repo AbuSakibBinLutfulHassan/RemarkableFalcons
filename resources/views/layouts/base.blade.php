@@ -19,7 +19,7 @@
 </head>
 <body class="home-page home-01 ">
 
-	<!-- mobile menu -->
+	
     <div class="mercado-clone-wrap">
         <div class="mercado-panels-actions-wrap">
             <a class="mercado-close-btn mercado-close-panels" href="#">x</a>
@@ -27,7 +27,7 @@
         <div class="mercado-panels"></div>
     </div>
 
-	<!--header-->
+	
 	<header id="header" class="header header-style-1">
 		<div class="container-fluid">
 			<div class="row">

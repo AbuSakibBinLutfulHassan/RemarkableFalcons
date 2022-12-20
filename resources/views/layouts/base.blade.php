@@ -149,7 +149,7 @@
 											</li>
 											<li>
 												<i class="fa fa-envelope" aria-hidden="true"></i>
-												<p class="contact-txt">Contact@WhizTech.com</p>
+												<p class="contact-txt">contact@WhizTech.com</p>
 											</li>											
 										</ul>
 									</div>

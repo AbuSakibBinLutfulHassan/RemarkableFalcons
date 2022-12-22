@@ -165,7 +165,7 @@
 								<div class="wrap-footer-item twin-item">
 									<h3 class="item-header">My Account</h3>
 									<div class="item-content">
-										<div class="wrap-vertical-nav">
+										
 											<ul>
 												<li class="menu-item"><a href="#" class="link-term">My Account</a></li>
 												<li class="menu-item"><a href="#" class="link-term">Brands</a></li>

@@ -17,7 +17,7 @@
 	<link rel="stylesheet" type="text/css" href="{{asset('assets/css/color-01.css')}}">
     @livewireStyles
 </head>
-<body class="home-page home-01 ">
+<body class="home-page home-00 ">
 
 	<!-- mobile menu -->
     <div class="mercado-clone-wrap">

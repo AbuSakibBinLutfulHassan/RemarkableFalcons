@@ -5,7 +5,7 @@
     <div class="wrap-breadcrumb">
         <ul>
             <li class="item-link"><a href="#" class="link">home</a></li>
-            <li class="item-link"><span>login</span></li>
+            <li class="item-link"><span>Login</span></li>
         </ul>
     </div>
     <div class=" main-content-area">
@@ -93,10 +93,10 @@
                                 <figure><img src="{{asset ('assets/images/products/digital_04.jpg')}}" width="214" height="214" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
                             </a>
                             <div class="group-flash">
-                                <span class="flash-item new-label">new</span>
+                                <span class="flash-item new-label">New</span>
                             </div>
                             <div class="wrap-btn">
-                                <a href="#" class="function-link">quick view</a>
+                                <a href="#" class="function-link">Quick view</a>
                             </div>
                         </div>
                         <div class="product-info">
@@ -114,7 +114,7 @@
                                 <span class="flash-item sale-label">sale</span>
                             </div>
                             <div class="wrap-btn">
-                                <a href="#" class="function-link">quick view</a>
+                                <a href="#" class="function-link">Quick view</a>
                             </div>
                         </div>
                         <div class="product-info">
@@ -133,7 +133,7 @@
                                 <span class="flash-item sale-label">sale</span>
                             </div>
                             <div class="wrap-btn">
-                                <a href="#" class="function-link">quick view</a>
+                                <a href="#" class="function-link">Quick view</a>
                             </div>
                         </div>
                         <div class="product-info">
@@ -151,7 +151,7 @@
                                 <span class="flash-item bestseller-label">Bestseller</span>
                             </div>
                             <div class="wrap-btn">
-                                <a href="#" class="function-link">quick view</a>
+                                <a href="#" class="function-link">Quick view</a>
                             </div>
                         </div>
                         <div class="product-info">
@@ -166,7 +166,7 @@
                                 <figure><img src="{{asset('assets/images/products/digital_21.jpg')}}" width="214" height="214" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
                             </a>
                             <div class="wrap-btn">
-                                <a href="#" class="function-link">quick view</a>
+                                <a href="#" class="function-link">Quick view</a>
                             </div>
                         </div>
                         <div class="product-info">

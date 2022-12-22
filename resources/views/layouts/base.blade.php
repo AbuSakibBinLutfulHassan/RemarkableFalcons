@@ -180,7 +180,7 @@
 										<div class="wrap-vertical-nav">
 											<ul>
 												<li class="menu-item"><a href="#" class="link-term">Contact Us</a></li>
-												<li class="menu-item"><a href="#" class="link-term">Returns</a></li>
+												<li class="menu-item"><a href="#" class="link-term">Return</a></li>
 												<li class="menu-item"><a href="#" class="link-term">Site Map</a></li>
 												<li class="menu-item"><a href="#" class="link-term">Order History</a></li>
 											</ul>

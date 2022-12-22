@@ -66,7 +66,7 @@
 									<i class="fa fa-heart" aria-hidden="true"></i>
 									<div class="left-info">
 										
-										<span class="title">Wishlist</span>
+										<span class="title">wishlist</span>
 									</div>
 								</a>
 							</div>

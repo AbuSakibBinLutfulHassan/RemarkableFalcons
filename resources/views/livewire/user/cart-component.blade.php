@@ -11,7 +11,7 @@
     <div class=" main-content-area">
 
         <div class="wrap-iten-in-cart">
-            <h2 class="box-title">Products Name</h2>
+            <h3 class="box-title">Products Name</h3>
             <ul class="products-cart">
                 <li class="pr-cart-item">
                     <div class="product-image">

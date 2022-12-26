@@ -130,7 +130,7 @@
                             </a>
                             <div class="group-flash">
                                 <span class="flash-item new-label">new</span>
-                                <span class="flash-item sale-label">sale</span>
+                                <span class="flash-item sale-label">Sale</span>
                             </div>
                             <div class="wrap-btn">
                                 <a href="#" class="function-link">Quick view</a>

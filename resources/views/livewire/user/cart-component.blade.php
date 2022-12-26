@@ -202,7 +202,7 @@
                                 <span class="flash-item new-label">new</span>
                             </div>
                             <div class="wrap-btn">
-                                <a href="#" class="function-link">quick view</a>
+                                <a href="#" class="function-link">Quick view</a>
                             </div>
                         </div>
                         <div class="product-info">

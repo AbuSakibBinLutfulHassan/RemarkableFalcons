@@ -14,7 +14,7 @@
             <form action="#" method="get" name="frm-billing">
                 <p class="row-in-form">
                     <label for="fname">First Name<span>*</span></label>
-                    <input id="fname" type="text" name="fname" value="" placeholder="Your name">
+                    <input id="fname" type="text" name="fname" value="" placeholder="Your First name">
                 </p>
                 <p class="row-in-form">
                     <label for="lname">Last Name<span>*</span></label>

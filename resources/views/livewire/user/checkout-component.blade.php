@@ -13,7 +13,7 @@
             <h3 class="box-title">Billing Address</h3>
             <form action="#" method="get" name="frm-billing">
                 <p class="row-in-form">
-                    <label for="fname">first name<span>*</span></label>
+                    <label for="fname">First Name<span>*</span></label>
                     <input id="fname" type="text" name="fname" value="" placeholder="Your name">
                 </p>
                 <p class="row-in-form">

@@ -18,7 +18,7 @@
                 </p>
                 <p class="row-in-form">
                     <label for="lname">Last Name<span>*</span></label>
-                    <input id="lname" type="text" name="lname" value="" placeholder="Your last name">
+                    <input id="lname" type="text" name="lname" value="" placeholder="Your Last name">
                 </p>
                 <p class="row-in-form">
                     <label for="email">Email Addreess:</label>
@@ -30,7 +30,7 @@
                 </p>
                 <p class="row-in-form">
                     <label for="add">Address:</label>
-                    <input id="add" type="text" name="add" value="" placeholder="Street at apartment number">
+                    <input id="add" type="text" name="add" value="" placeholder="Street and apartment number">
                 </p>
                 <p class="row-in-form">
                     <label for="country">Country<span>*</span></label>

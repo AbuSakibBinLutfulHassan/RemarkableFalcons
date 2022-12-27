@@ -42,7 +42,7 @@
                 </p>
                 <p class="row-in-form">
                     <label for="city">Town / City<span>*</span></label>
-                    <input id="city" type="text" name="city" value="" placeholder="City name">
+                    <input id="city" type="text" name="city" value="" placeholder="City Name">
                 </p>
                 <p class="row-in-form fill-wife">
                     <label class="checkbox-field">
@@ -109,7 +109,7 @@
                                 <span class="flash-item new-label">new</span>
                             </div>
                             <div class="wrap-btn">
-                                <a href="#" class="function-link">quick view</a>
+                                <a href="#" class="function-link">Quick view</a>
                             </div>
                         </div>
                         <div class="product-info">
@@ -127,7 +127,7 @@
                                 <span class="flash-item sale-label">sale</span>
                             </div>
                             <div class="wrap-btn">
-                                <a href="#" class="function-link">quick view</a>
+                                <a href="#" class="function-link">Quick view</a>
                             </div>
                         </div>
                         <div class="product-info">
@@ -146,7 +146,7 @@
                                 <span class="flash-item sale-label">sale</span>
                             </div>
                             <div class="wrap-btn">
-                                <a href="#" class="function-link">quick view</a>
+                                <a href="#" class="function-link">Quick view</a>
                             </div>
                         </div>
                         <div class="product-info">
@@ -164,7 +164,7 @@
                                 <span class="flash-item bestseller-label">Bestseller</span>
                             </div>
                             <div class="wrap-btn">
-                                <a href="#" class="function-link">quick view</a>
+                                <a href="#" class="function-link">Quick view</a>
                             </div>
                         </div>
                         <div class="product-info">

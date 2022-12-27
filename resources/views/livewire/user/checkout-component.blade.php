@@ -17,7 +17,7 @@
                     <input id="fname" type="text" name="fname" value="" placeholder="Your name">
                 </p>
                 <p class="row-in-form">
-                    <label for="lname">last name<span>*</span></label>
+                    <label for="lname">Last Name<span>*</span></label>
                     <input id="lname" type="text" name="lname" value="" placeholder="Your last name">
                 </p>
                 <p class="row-in-form">

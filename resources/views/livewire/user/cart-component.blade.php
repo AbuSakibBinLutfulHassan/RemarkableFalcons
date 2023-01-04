@@ -53,7 +53,7 @@
                     </div>
                     <div class="price-field sub-total"><p class="price">$256.00</p></div>
                     <div class="delete">
-                       
+                        <a href="#" class="btn btn-delete" title="">
                             <span>Delete from your cart</span>
                             <i class="fa fa-times-circle" aria-hidden="true"></i>
                         </a>

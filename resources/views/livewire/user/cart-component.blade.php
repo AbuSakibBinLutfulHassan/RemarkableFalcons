@@ -12,7 +12,7 @@
 
         <div class="wrap-iten-in-cart">
             <h3 class="box-title">Product's Name</h3>
-            <ul class="products-cart">
+            <ul class="product's-cart">
                 <li class="pr-cart-item">
                     <div class="product-image">
                         <figure><img src="{{asset ('assets/images/products/digital_18.jpg')}}" alt=""></figure>

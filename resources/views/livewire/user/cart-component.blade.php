@@ -10,7 +10,7 @@
     </div>
     <div class="main-content-area">
 
-        <div class="wrap-item-in-cart">
+        <div class="wrap-iten-in-cart">
             <h3 class="box-title">Product's Name</h3>
             <ul class="products-cart">
                 <li class="pr-cart-item">

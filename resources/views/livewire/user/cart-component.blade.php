@@ -1,6 +1,6 @@
 <main id="main" class="main-site">
 
-<div class="Container">
+<div class="container">
 
     <div class="wrap-breadcrumb">
         <ul>

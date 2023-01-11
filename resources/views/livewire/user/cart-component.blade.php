@@ -14,7 +14,7 @@
             <h3 class="box-title">Product's Name</h3>
             <ul class="products-cart">
                 <li class="pr-cart-item">
-                    <div class="product-image">
+                    <div class="products image">
                         <figure><img src="{{asset ('assets/images/products/digital_18.jpg')}}" alt=""></figure>
                     </div>
                     <div class="product-name">

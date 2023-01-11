@@ -8,7 +8,7 @@
             <li class="item-link"><span>Login</span></li>
         </ul>
     </div>
-    <div class=" main-content-area">
+    <div class="main-content-area">
 
         <div class="wrap-iten-in-cart">
             <h3 class="box-title">Product's Name</h3>

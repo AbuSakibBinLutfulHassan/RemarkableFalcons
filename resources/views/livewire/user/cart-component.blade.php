@@ -1,4 +1,4 @@
-<main id="main" class="main-site"
+<main id="main" class="main-site">
 
 <div class="container">
 

@@ -17,7 +17,7 @@
                     <div class="product-image">
                         <figure><img src="{{asset ('assets/images/products/digital_18.jpg')}}" alt=""></figure>
                     </div>
-                    <div class="product-name">
+                    <div class="Product-name">
                         <a class="link-to-product" href="#">Radiant-360 R6 Wireless Omnidirectional Speaker [White]</a>
                     </div>
                     <div class="price-field produtc-price"><p class="price">$256.00</p></div>

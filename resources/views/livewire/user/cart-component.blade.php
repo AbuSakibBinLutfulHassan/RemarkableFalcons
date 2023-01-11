@@ -28,7 +28,7 @@
                             <a class="btn btn-reduce" href="#"></a>
                         </div>
                     </div>
-                    <div class="price-field sub-total"><p class="price">$256.00</p></div>
+                    <div class="price-field sub-total"><p class="price">$250.00</p></div>
                     <div class="delete">
                         <a href="#" class="btn btn-delete" title="">
                             <span>Delete from your cart</span>

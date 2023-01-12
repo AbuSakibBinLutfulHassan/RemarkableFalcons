@@ -150,7 +150,7 @@
                             <div class="group-flash">
                                 <span class="flash-item bestseller-label">BestSeller</span>
                             </div>
-                            <div class="wrap-btm">
+                            <div class="wrap-btn">
                                 <a href="#" class="function-link">Quick view</a>
                             </div>
                         </div>

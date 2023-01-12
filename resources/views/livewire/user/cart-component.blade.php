@@ -64,7 +64,7 @@
 
         <div class="summary">
             <div class="order-summary">
-                <h4 class="title-box">Order Summary</h4>
+                <h3 class="title-box">Order Summary</h3>
                 <p class="summary-info"><span class="title">Subtotal</span><b class="index">$512.00</b></p>
                 <p class="summary-info"><span class="title">Shipping</span><b class="index">Free Shipping</b></p>
                 <p class="summary-info total-info "><span class="title">Total</span><b class="index">$512.00</b></p>

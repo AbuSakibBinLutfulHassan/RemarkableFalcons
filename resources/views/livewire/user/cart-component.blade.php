@@ -50,7 +50,7 @@
                             <a class="btn btn-increase" href="#"></a>
                             <a class="btn btn-reduce" href="#"></a>
                         </div>
-                    
+                    </div>
                     <div class="price-field sub-total"><p class="price">$256.00</p></div>
                     <div class="delete">
                         <a href="#" class="btn btn-delete" title="">

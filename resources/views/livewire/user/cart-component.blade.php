@@ -55,7 +55,7 @@
                     <div class="delete">
                         <a href="#" class="btn btn-delete" title="">
                             <span>Delete from your cart</span>
-                            <i class="fa fa-times-circle" aria-hidden="false"></i>
+                            <i class="fa fa-times-circle" aria-hidden="true"></i>
                         </a>
                     </div>
                 </li>												

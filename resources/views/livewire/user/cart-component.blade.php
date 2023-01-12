@@ -172,7 +172,7 @@
                         <div class="product-info">
                             <a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
                             <div class="wrap-price"><span class="product-price">$250.00</span></div>
-                        
+                        </div>
                     </div>
 
                     <div class="product product-style-2 equal-elem ">

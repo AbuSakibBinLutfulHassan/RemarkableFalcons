@@ -4,7 +4,7 @@ namespace App\Http\Livewire\Admin;
 
 use Livewire\Component;
 
-class AdminDashboardComponent extends component
+class AdminDashboardComponent extends Component;
 {
     public function render()
     {

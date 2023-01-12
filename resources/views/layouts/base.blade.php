@@ -55,7 +55,7 @@
 									<input type="text" name="search" value="" placeholder="Search Here">
 									<button form="form-search-top" type="button"><i class="fa fa-search" aria-hidden="true"></i></button>
 									<div class="wrap-list-cate">
-										<input type="hidden" name="product-cate" value="1" id="product-cate">
+										<input type="hidden" name="product-cate" value="0" id="product-cate">
 									</div>
 								</form>
 							</div>
@@ -67,7 +67,7 @@
 									<i class="fa fa-heart" aria-hidden="true"></i>
 									<div class="left-info">
 										
-										<span class="title">Wishlist</span>
+										<span class="title">WISHLIST</span>
 									</div>
 								</a>
 							</div>

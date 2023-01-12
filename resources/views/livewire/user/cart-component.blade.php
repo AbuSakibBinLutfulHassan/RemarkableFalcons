@@ -34,7 +34,7 @@
                             <span>Delete from your Cart</span>
                             <i class="fa fa-times-circle" aria-hidden="true"></i>
                         </a>
-                    </div>
+                    <div>
                 </li>
                 <li class="pr-cart-item">
                     <div class="product-image">

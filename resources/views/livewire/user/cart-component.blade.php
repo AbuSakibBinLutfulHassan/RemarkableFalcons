@@ -71,7 +71,7 @@
             </div>
             <div class="checkout-info">
                 <label class="checkbox-field">
-                    <input class="frm-input " name="have-code" id="have-code" value="" type="checkbox"><span>I have a promo code</span>
+                    <input class="frm-input " name="have-code" id="have-code" value="" type="checkbox"><span>I have a Promo Code</span>
                 </label>
                 <a class="btn btn-checkout" href="checkout.html">Check out</a>
                 <a class="link-to-shop" href="shop.html">Continue Shopping<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>

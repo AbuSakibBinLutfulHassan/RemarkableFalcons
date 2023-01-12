@@ -148,7 +148,7 @@
                                 <figure><img src="{{asset('assets/images/products/digital_01.jpg')}}" width="214" height="214" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
                             </a>
                             <div class="group-flash">
-                                <span class="flash-item bestseller-label">Bestseller</span>
+                                <span class="flash-item bestseller-label">BestSeller</span>
                             </div>
                             <div class="wrap-btn">
                                 <a href="#" class="function-link">Quick view</a>

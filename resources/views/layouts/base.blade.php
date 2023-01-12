@@ -40,7 +40,7 @@
 							</ul>
 						</div>
 					</div>
-				
+				</div>
 
 				<div class="container">
 					<div class="mid-section main-info-area">

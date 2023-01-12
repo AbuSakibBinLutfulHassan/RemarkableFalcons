@@ -177,7 +177,7 @@
 
                     <div class="product product-style-2 equal-elem ">
                         <div class="product-thumnail">
-                            <a href="#" title="T-Shirt Raw Hem Organic Boro Constrast Denim">
+                            <a href="#" title="">
                                 <figure><img src="{{asset ('assets/images/products/digital_03.jpg')}}" width="214" height="214" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
                             </a>
                             <div class="group-flash">

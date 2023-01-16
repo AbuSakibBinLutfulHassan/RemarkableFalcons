@@ -33,7 +33,7 @@
 			<div class="row">
 				<div class="topbar-menu-area">
 					<div class="container">
-						<div class="topbar-menu right-menu">
+						<div class="topbar-menu left-menu">
 							<ul>
 								<li class="menu-item" ><a title="Register or Login" href="login.html">Login</a></li>
 								<li class="menu-item" ><a title="Register or Login" href="register.html">Register</a></li>
